@@ -1,0 +1,15 @@
+.setRow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.setAlignment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+label {
+  font-weight: bold;
+}
